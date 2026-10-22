@@ -1,0 +1,14 @@
+C:\Users\mvk\web\Øvelse 7.1\bin\Debug\net8.0-windows\Øvelse 7.1.exe
+C:\Users\mvk\web\Øvelse 7.1\bin\Debug\net8.0-windows\Øvelse 7.1.deps.json
+C:\Users\mvk\web\Øvelse 7.1\bin\Debug\net8.0-windows\Øvelse 7.1.runtimeconfig.json
+C:\Users\mvk\web\Øvelse 7.1\bin\Debug\net8.0-windows\Øvelse 7.1.dll
+C:\Users\mvk\web\Øvelse 7.1\bin\Debug\net8.0-windows\Øvelse 7.1.pdb
+C:\Users\mvk\web\Øvelse 7.1\obj\Debug\net8.0-windows\Øvelse 7.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvk\web\Øvelse 7.1\obj\Debug\net8.0-windows\Øvelse 7.1.AssemblyInfoInputs.cache
+C:\Users\mvk\web\Øvelse 7.1\obj\Debug\net8.0-windows\Øvelse 7.1.AssemblyInfo.cs
+C:\Users\mvk\web\Øvelse 7.1\obj\Debug\net8.0-windows\Øvelse 7.1.csproj.CoreCompileInputs.cache
+C:\Users\mvk\web\Øvelse 7.1\obj\Debug\net8.0-windows\Øvelse 7.1.dll
+C:\Users\mvk\web\Øvelse 7.1\obj\Debug\net8.0-windows\refint\Øvelse 7.1.dll
+C:\Users\mvk\web\Øvelse 7.1\obj\Debug\net8.0-windows\Øvelse 7.1.pdb
+C:\Users\mvk\web\Øvelse 7.1\obj\Debug\net8.0-windows\Øvelse 7.1.genruntimeconfig.cache
+C:\Users\mvk\web\Øvelse 7.1\obj\Debug\net8.0-windows\ref\Øvelse 7.1.dll

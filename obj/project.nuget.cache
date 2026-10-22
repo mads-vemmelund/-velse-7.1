@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pLqj6vznbvc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mvk\\web\\Øvelse 7.1\\Øvelse 7.1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mvk\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.31\\microsoft.netcore.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\mvk\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.31\\microsoft.windowsdesktop.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\mvk\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.31\\microsoft.aspnetcore.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\mvk\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.31\\microsoft.netcore.app.host.win-x64.8.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
