@@ -12,3 +12,4 @@ C:\Users\mvk\web\Øvelse 7.1\obj\Debug\net8.0-windows\refint\Øvelse 7.1.dll
 C:\Users\mvk\web\Øvelse 7.1\obj\Debug\net8.0-windows\Øvelse 7.1.pdb
 C:\Users\mvk\web\Øvelse 7.1\obj\Debug\net8.0-windows\Øvelse 7.1.genruntimeconfig.cache
 C:\Users\mvk\web\Øvelse 7.1\obj\Debug\net8.0-windows\ref\Øvelse 7.1.dll
+C:\Users\mvk\web\Øvelse 7.1\obj\Debug\net8.0-windows\Øvelse 7.1.sourcelink.json

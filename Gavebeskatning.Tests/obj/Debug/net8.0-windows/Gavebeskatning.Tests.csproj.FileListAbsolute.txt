@@ -101,3 +101,4 @@ C:\Users\mvk\web\Øvelse 7.1\Gavebeskatning.Tests\obj\Debug\net8.0-windows\refin
 C:\Users\mvk\web\Øvelse 7.1\Gavebeskatning.Tests\obj\Debug\net8.0-windows\Gavebeskatning.Tests.pdb
 C:\Users\mvk\web\Øvelse 7.1\Gavebeskatning.Tests\obj\Debug\net8.0-windows\Gavebeskatning.Tests.genruntimeconfig.cache
 C:\Users\mvk\web\Øvelse 7.1\Gavebeskatning.Tests\obj\Debug\net8.0-windows\ref\Gavebeskatning.Tests.dll
+C:\Users\mvk\web\Øvelse 7.1\Gavebeskatning.Tests\obj\Debug\net8.0-windows\Gavebeskatning.Tests.sourcelink.json
