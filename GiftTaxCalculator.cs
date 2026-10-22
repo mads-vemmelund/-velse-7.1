@@ -25,7 +25,7 @@ public static class GiftTaxCalculator
             return 0m;
         }
 
-        return christmasGift < ChristmasGiftExemptionLimit
+        return christmasGift <= ChristmasGiftExemptionLimit
             ? otherGifts
             : totalGifts;
     }
